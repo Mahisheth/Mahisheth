@@ -21,7 +21,7 @@ Some other facts about me-e-e<br/>
 ⭐️ My go to jam when coding: music and sitcoms. Non-stop.<br>
 💬 Always down to chat about tech, Taylor, or the best productivity hacks<br/>
 
-Let's connect and chat! Open to anything under the sun.<br/>
+Let's connect and chat!<br/>
 Linkedin: [linkedin.com/in/mahi-sheth](http://linkedin.com/in/mahi-sheth)<br/>
 Gmail: [mahisheth16@gmail.com](mahisheth16@gmail.com)<br/>
 Github: [https://github.com/Mahisheth](https://github.com/Mahisheth)<br/>
