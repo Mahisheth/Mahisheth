@@ -1,4 +1,4 @@
-### 👋 Hi, I'm Mahi!
+# 👋 Hi, I'm Mahi!
 
 🎓 Undergraduate at Rutgers University studying Computer Science & Data Science<br/>
 💭 Currently learning data analytics and cloud security<br/>
@@ -6,14 +6,13 @@
 ## 👩🏻‍💻 About Me<br/>
 I interned as a **Finance Data Analyst inter**n at Reveal Global Consulting, where I built data pipelines and dashboards to help stakeholders make informed decisions. Outside of class, I am actively involved in Rutgers' tech community through organizations like **Women in Computer Science** (WiCS), **Student Excellence Experiential learning, and Development in Data Science** (Seed2s), **Undergraduate Student Alliance of Computer Science** (USACS). I currently serve as a mentor for WiCS where I support women in tech through workshops and collaborative learning. I am preparing for my AWS Cloud Practitioner certification and explroring cloud infrastructure, security and data analytics through side projects. I love to work in collaborative spaces whether it's hackathons, mentorship, or study groups, where I can learn, build, and grow alongside others. <br/>
 
-# 💻 Tech Stack:<br/>
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white) ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)<br/>
+## 💻 Tech Stack:<br/>
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white)<br/>
 
-
-Some other facts about me-e-e<br/>
+## Some other facts about me-e-e <br/>
 🎶 I believe good coffee and great playlists can solve (almost) anything<br/>
-⭐️ My go to coding vibe: music and sitcoms. Non-stop.<br>
-💬 Always down to chat about tech, Taylor Swift, or tech tips<br/>
+⭐️ My go to coding vibe: Taylor Swift and sitcoms. Non-stop<br/>
+💬 Always down to chat about tech, music, or tech tips<br/>
 
 Let's connect and chat!<br/>
 Linkedin: [linkedin.com/in/mahi-sheth](http://linkedin.com/in/mahi-sheth)<br/>
